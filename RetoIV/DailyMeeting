@@ -32,9 +32,9 @@ Desarrollador DE SOFTWARE: Andres Felipe Quintero Giraldo
 
 i.   ¿Qué hizo ayer?
 
-ii.  ¿Qué hará hoy? 
+ii.  ¿Qué hará hoy? grupalmente se definio la necesidad de una nueva entidad ( persona) y se definio las variables y relaciones que esta entidad tendria
 
-iii. ¿Qué dificultades ha tenido? 
+iii. ¿Qué dificultades ha tenido? N/A
 
 --..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..-..-..-..-..-..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..
 
@@ -90,11 +90,11 @@ iii. ¿Qué dificultades ha tenido?
 
 Desarrollador DE SOFTWARE: Andres Felipe Quintero Giraldo
 
-i.   ¿Qué hizo ayer?
+i.   ¿Qué hizo ayer? definicion de entidad persona, sus variables y relaciones
 
-ii.  ¿Qué hará hoy? 
+ii.  ¿Qué hará hoy? se inicia el paso a paso para crear contraseñas de ingreso por consola y contraseñas cifradas, al igual que token de seguridad 
 
-iii. ¿Qué dificultades ha tenido? 
+iii. ¿Qué dificultades ha tenido? la clase keys no reconoce el metodo post para asociar al usuario con su respectiva informacion y el token
 
 --..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..-..-..-..-..-..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..
 
@@ -151,11 +151,11 @@ iii. ¿Qué dificultades ha tenido?
 
 Desarrollador DE SOFTWARE: Andres Felipe Quintero Giraldo
 
-i.   ¿Qué hizo ayer?
+i.   ¿Qué hizo ayer? creacion de contraseñas y token
 
-ii.  ¿Qué hará hoy? 
+ii.  ¿Qué hará hoy? terminar la codificiacion del reto de la semana
 
-iii. ¿Qué dificultades ha tenido? 
+iii. ¿Qué dificultades ha tenido? al instalar librerias de seguridad y autenticacion de loopback se generaron errores que no se supo como resolver
 
 --..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..-..-..-..-..-..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..
 
